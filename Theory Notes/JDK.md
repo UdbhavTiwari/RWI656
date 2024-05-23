@@ -1,0 +1,29 @@
+# JDK, JRE, and JVM Explained
+
+## JDK (Java Development Kit)
+
+- **What it is:** The JDK (Java Development Kit) is a software development kit used by developers to create Java applications.
+- **Components:**
+  - **Compiler:** Converts Java source code into bytecode.
+  - **Java Runtime Environment (JRE):** Includes libraries, tools, and resources necessary for running Java applications.
+  - **Development Tools:** Includes utilities for compiling, debugging, and documenting Java programs.
+- **Usage:** Developers use the JDK to write, compile, and debug Java programs.
+
+## JRE (Java Runtime Environment)
+
+- **What it is:** The JRE (Java Runtime Environment) is a runtime environment required to run Java applications.
+- **Components:**
+  - **Java Virtual Machine (JVM):** Executes Java bytecode.
+  - **Java Class Libraries:** Provides the core functionality of the Java programming language.
+- **Usage:** End-users need the JRE installed on their systems to run Java applications.
+
+## JVM (Java Virtual Machine)
+
+- **What it is:** The JVM (Java Virtual Machine) is an abstract machine that provides the runtime environment for executing Java bytecode.
+- **Functionality:**
+  - **Interprets Bytecode:** Reads and interprets bytecode instructions.
+  - **Memory Management:** Manages memory allocation and garbage collection.
+  - **Platform Independence:** Provides a platform-independent execution environment.
+- **Usage:** The JVM is responsible for executing Java applications by interpreting bytecode or converting it into native machine code for improved performance.
+
+![alt text](<Screenshot 2024-05-23 201541.png>)
