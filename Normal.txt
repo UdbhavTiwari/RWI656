@@ -1,0 +1,11 @@
+Name: Udbhav Tiwari
+EOD Report:- 
+23/05/2024
+Topic - Access Modifier ,final keyword ,static block
+1) Learn about different access modifiers. 
+2)  Access modifier and their scope
+3)StaticBlock                                                     
+4)Final Keyword 
+5)create program in Access modifier ,static block,static method
+
+Link - https://github.com/UdbhavTiwari/RWI656

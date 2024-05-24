@@ -5,10 +5,12 @@
 
 3.JDK,JRE,JVM ✅
 
-4.Types of Memories in JAVA
+4.Types of Memories in JAVA ✅
 
-5.Access Modifiers with code example
+5.Access Modifiers with code example ✅
 
-6.Why is main method static
+6.Why is main method static ✅
 
-7.Why is pointers is not used in java
+7.Why is pointers is not used in java ✅
+
+
