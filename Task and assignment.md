@@ -15,7 +15,14 @@
 
 8. Use of final Keyword ✅
 
-9. Objects and Classes 
+9. Objects and Classes  ✅
+
+10.  # Concepts of Oops in JAVA
+    - Polymorphism
+    - Inheritance ✅
+    - Abstraction ✅
+    - Encapsulation ✅
+    
 
 
 

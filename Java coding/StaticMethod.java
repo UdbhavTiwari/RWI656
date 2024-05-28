@@ -2,6 +2,7 @@ public class StaticMethod {
     
     static{
         System.out.println("hi from static");  // static was executed first
+        
     }
 
     public static void main(String[] args) {
