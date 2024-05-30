@@ -1,4 +1,4 @@
-package JavaSelf;
+package JavaSelfOops;
 
 public class Encapsulation {
 

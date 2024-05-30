@@ -1,4 +1,4 @@
-package JavaSelf;   
+package JavaSelfOops;   
 
     abstract class Living {
      String name;

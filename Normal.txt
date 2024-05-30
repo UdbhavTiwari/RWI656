@@ -9,3 +9,67 @@ Topic - Access Modifier ,final keyword ,static block
 5)create program in Access modifier ,static block,static method
 
 Link - https://github.com/UdbhavTiwari/RWI656
+
+
+
+
+
+
+
+package JavaSelfOops;
+
+
+class LivingBeings{
+
+    String Name;
+    public LivingBeings (String name){
+        this.Name=name;
+    }
+   public String Do_Things(){
+
+        return "I Live";
+    }
+}
+
+class Terrorist extends LivingBeings{
+   // String Name;
+
+   public String Do_Things(){
+        return " I Kill";
+    }
+}
+
+class Gods extends LivingBeings{
+    //String Name;
+
+   public String Do_Things(){
+        return "I Punish Terrorist";
+    }
+}
+
+ class PolymorphismHuman extends LivingBeings {  // human class
+    //String Name;
+
+   public String Do_Things(){
+        return "I Do nothing";
+    }
+
+     public  PolymorphismHuman (String name){
+        this.Name=name;
+    }
+
+    public static void main(String[] args) {
+
+        LivingBeings turtle = new LivingBeings("Turtle");
+        LivingBeings osama = new Terrorist("terrorist");
+        LivingBeings ram = new Gods(" Ram JI");
+        LivingBeings human = new PolymorphismHuman("Middle class ldka")
+
+
+        System.out.println( turtle.Do_Things());
+        System.out.println(osama.Do_Things());
+        System.out.println(ram.Do_Things());
+        System.out.println(human.Do_Things());
+    }   
+    
+}

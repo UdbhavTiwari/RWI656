@@ -1,4 +1,4 @@
-package JavaSelf;
+package JavaSelfOops;
 
 class Parent{                         // INHERITANCE
 

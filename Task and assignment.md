@@ -21,6 +21,7 @@
     - Polymorphism
     - Inheritance ✅
     - Abstraction ✅
+    - Inheritance
     - Encapsulation ✅
     
 
