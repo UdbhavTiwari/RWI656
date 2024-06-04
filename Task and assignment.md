@@ -18,12 +18,13 @@
 9. Objects and Classes  ✅
 
 10.  # Concepts of Oops in JAVA
-    - Polymorphism
+    - Polymorphism ✅
     - Inheritance ✅
     - Abstraction ✅
-    - Inheritance
+    - Inheritance ✅
     - Encapsulation ✅
     
+11. Association , aggregation , compositon
 
 
 
