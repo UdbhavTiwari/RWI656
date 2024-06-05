@@ -25,6 +25,7 @@
     - Encapsulation ✅
     
 11. Association , aggregation , compositon
+12. array,2d array,sorting,binary search
 
 
 
